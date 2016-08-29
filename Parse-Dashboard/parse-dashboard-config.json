@@ -1,10 +1,15 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "http://45.55.64.214:1337/parse",
+    "appId": "mPyeByykpRn5LkfQAwrZCvTR38SwqsG7KLHVCykM",
+    "masterKey": "mURND1KM48hBqPnF73ktYqlgXjU0ObcnfHnDVLyp",
+    "appName": "App1",
     "iconName": ""
   }],
-  "iconsFolder": "icons"
+  "users": [
+    {
+      "user":"diepnh",
+      "pass":"123"
+    }
+  ]
 }
